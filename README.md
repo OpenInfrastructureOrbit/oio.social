@@ -10,6 +10,12 @@ Please feel free to create a Pull-Request.
  JEKYLL
 ---------
 
-This website is generated with Jenkyll.
+This website is generated with Jenkyll.<br/>
 You can find more information about what jekyll is and how you can use it at [jekyllrb.com/docs](https://jekyllrb.com/docs/).
 
+**Kurzfassung:**
+```bash
+git pull
+gem install jekyll bundler
+bundle exec jekyll serve
+```
