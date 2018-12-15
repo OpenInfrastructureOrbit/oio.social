@@ -8,11 +8,11 @@ categories: 35c3 planung
 <img src="/images/OIO-badge.svg" width="230px" style="float:right;" />
 
 Hier findet ihr Informationen dazu, wie der Aufbau des Open Infrastructure Orbit aussieht.
-Bei unklarheiten oder Fragen wendet euch gerne im [Rocket.Chat](https://rocket.events.ccc.de/channel/open-infrastructure-orbit) an uns.
+Bei Unklarheiten oder Fragen wendet euch gerne im [Rocket.Chat](https://rocket.events.ccc.de/channel/open-infrastructure-orbit) an uns.
 
-Die Open Infrastructure Orbit *(auch: die Marina, der Orbit)* ist der sichere Hafen für alle Gruppen, Institutionen und Individuen die sich mit offener Infrastruktur befassen. Während wir während des Jahres in verschiedenen Gewässern unterwegs sind, treffen wir uns zum 35c3 in unserem Hafen (unserer Marina) um uns über die Erlebnisse des vergangenen, sowie über Visionen für die kommenden jahre auszutauschen.
+Der Open Infrastructure Orbit ist der sichere Hafen für alle Gruppen, Institutionen und Individuen die sich mit offener Infrastruktur befassen. Während wir über das Jahr in verschiedenen Gewässern unterwegs sind, treffen wir uns zum 35c3 in unserem Hafen (unserer Marina), um uns über die Erlebnisse des vergangenen Jahres, sowie über Visionen für die kommenden Jahre auszutauschen.
 
-Die Marina befindet sich im Zentrum von Halle 2, den Assemblys des 35. Chaos Communication Congress.
+Die Marina befindet sich im Zentrum von Halle 2, der Assemblyhalle des 35. Chaos Communication Congresses.
 
 **Bitte beachtet, das sich bei der aktuellen Planung natürlich immer noch etwas ändern kann und die realität auch geringfügig vom Plan abweichen kann!**
 
