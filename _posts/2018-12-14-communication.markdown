@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: single
 title:  "Kommunikationskanäle des OIO"
 date:   2018-12-14 13:37:23 +0100
 categories: 35c3 communication
 ---
 
 <img src="/images/OIO-badge.svg" width="230px" style="float:right;" />
-Im Netz gibt es an vielen Stellen Informationen zum Open Infrastructure Orbit (OIO). 
+Im Netz gibt es an vielen Stellen Informationen zum Open Infrastructure Orbit (OIO).
 Daher gibt es hier eine Auflistung der Kanäle, wie man die Menschen aus dem OIO erreichen kann:
 
  Kommunikation
@@ -44,4 +44,3 @@ Teilnehmerliste: [wiki.freifunk.net/35c3/Participants](https://wiki.freifunk.net
  Logo
 -----
 Das Logo des Open Infrastructure Orbit gibt es auch hier als Vectorgrafik zum <a href="/images/OIO-badge.svg" download>Download</a>.
-

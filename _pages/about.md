@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: About
 permalink: /about/
 ---
@@ -16,4 +16,3 @@ Weitere Informationen zum Open Infrastructure Orbit bzw. Marina gibt es in Wiki 
 Den Quellcode fürr Jekyll von dieser Seite gibt es auf GitHub:
 [github.com/andibraeu/oio.social](https://github.com/andibraeu/oio.social)<br/>
 *Pull-Requests sind immer gerne gesehen!*
-

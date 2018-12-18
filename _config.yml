@@ -23,10 +23,24 @@ twitter_username: openinfraorbit
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-include-cache
+
+defaults:
+# _posts
+  - scope:
+    path: ""
+    type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

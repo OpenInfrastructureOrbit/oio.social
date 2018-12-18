@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title:  "Aussehen und Aufbau des Open Infrastructure Orbit"
 date:   2018-12-14 18:23:42 +0100
-categories: 35c3 planung 
+categories: 35c3 planung
 ---
 
 <img src="/images/OIO-badge.svg" width="230px" style="float:right;" />

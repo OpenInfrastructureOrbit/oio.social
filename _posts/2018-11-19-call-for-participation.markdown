@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title:  "OIO auf dem 35c3: Call for Participation / Call for Donations"
 date:   2018-11-19 13:37:42 +0100
-categories: 35c3 spende 
+categories: 35c3 spende
 ---
 
 Liebe Communities,
@@ -59,4 +59,3 @@ There’s a weekly mumble for plannings. If you want to help with organizing or 
 Best regards,
 
 Andi
-
