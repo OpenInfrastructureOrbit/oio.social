@@ -2,7 +2,7 @@
 layout: single
 title:  "Kommunikationskanäle des OIO"
 date:   2018-12-14 13:37:23 +0100
-categories: 35c3 communication
+#categories: 35c3 communication
 ---
 
 <img src="/images/OIO-badge.svg" width="230px" style="float:right;" />
