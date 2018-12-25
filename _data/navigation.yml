@@ -1,0 +1,9 @@
+main:
+  - title: "Blog"
+    url: /blog/
+  - title: "Fahrplan"
+    url: https://pretalx.35c3oio.freifunk.space/35c3oio/schedule/
+  - title: "Engelsystem"
+    url: https://engelsystem.oio.social
+  - title: "About"
+    url: /about/
