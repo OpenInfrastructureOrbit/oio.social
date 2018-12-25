@@ -32,7 +32,7 @@ footer:
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.14.1"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
