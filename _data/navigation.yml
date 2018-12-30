@@ -1,6 +1,8 @@
 main:
   - title: "Blog"
     url: /blog/
+  - title: "Spenden"
+    url: "http://spenden.oio.social"
   - title: "Fahrplan"
     url: https://pretalx.35c3oio.freifunk.space/35c3oio/schedule/
   - title: "Engelsystem"
