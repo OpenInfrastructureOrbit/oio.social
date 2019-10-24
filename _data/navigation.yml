@@ -3,8 +3,8 @@ main:
     url: /blog/
   - title: "Spenden"
     url: "http://spenden.oio.social"
-  - title: "Fahrplan"
-    url: https://pretalx.35c3oio.freifunk.space/35c3oio/schedule/
+  - title: "CfP"
+    url: https://talks.oio.social/36c3-oio/cfp
   - title: "Engelsystem"
     url: https://engelsystem.oio.social
   - title: "About"
