@@ -53,11 +53,16 @@ defaults:
     values:
       layout: single
       author_profile: false
+  
 
 collections:
   assemblies_35c3:
     output: true
     permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
+  
 
 include: ["_pages"]
 
