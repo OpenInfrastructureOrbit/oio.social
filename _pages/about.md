@@ -9,9 +9,9 @@ Die Open Infrastructure Marina *(auch: die Marina, der Orbit)* ist der sichere H
 Die Marina befindet sich im Zentrum von Halle 2, den Assemblys des 35. Chaos Communication Congress.
 
 Unter anderen gibt es dort viele Präsentationsmöglichkeiten wie u.a. eine Bühne.
-Das Programm dazu wird in [diesem Pretalx](https://pretalx.35c3oio.freifunk.space/35c3oio/) geplant.
+Das Programm dazu wird in [diesem Pretalx](https://talks.oio.social/36c3-oio/ "Pretalx 36c3 Open Infrastructure Orbit") geplant.
 
-Weitere Informationen zum Open Infrastructure Orbit bzw. Marina gibt es in Wiki auf [wiki.freifunk.net/35c3](https://wiki.freifunk.net/35c3).
+Weitere Informationen zum Open Infrastructure Orbit bzw. Marina gibt es in Wiki auf [wiki.freifunk.net/36c3](https://wiki.freifunk.net/36c3).
 
 Den Quellcode fürr Jekyll von dieser Seite gibt es auf GitHub:
 [github.com/andibraeu/oio.social](https://github.com/andibraeu/oio.social)<br/>
@@ -23,9 +23,9 @@ The Open Infrastructure Marina *(also: the Marina/the Orbit)* is a safe haven fo
 
 The marina is located in the centre of Hall 2, the Assembly of the 35th Chaos Communication Congress.
 
-We have a stage with presentations, boats with seats where you can meet the various participants in our marina and a workshop room. We also have a lounge and a spot for stickers. See our program [here](https://pretalx.35c3oio.freifunk.space/35c3oio/) and come by!
+We have a stage with presentations, boats with seats where you can meet the various participants in our marina and a workshop room. We also have a lounge and a spot for stickers. See our program [here](https://talks.oio.social/36c3-oio/ "Pretalx 36c3 Open Infrastructure Orbit") and come by!
 
-Further information to the open Infrastructure Orbit and/or Marina can be found in our Wiki on [wiki.freifunk.net/35c3](https://wiki.freifunk.net/35c3).
+Further information to the open Infrastructure Orbit and/or Marina can be found in our Wiki on [wiki.freifunk.net/36c3](https://wiki.freifunk.net/36c3).
 
 The Jekyll built source code for this site is available on GitHub:
 [github.com/andibraeu/oio.social](https://github.com/andibraeu/oio.social)<br/>
