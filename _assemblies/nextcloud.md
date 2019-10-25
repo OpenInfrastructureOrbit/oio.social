@@ -1,5 +1,5 @@
 ---
-title: "nextcloud"
+title: "Nextcloud"
 layout: single
 excerpt: "Nextcloud ist eine quelloffene Software. Das Entwicklerteam trägt gern dazu bei den OIO großartig zu machen. "
 header:
