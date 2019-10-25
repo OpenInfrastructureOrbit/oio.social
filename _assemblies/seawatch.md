@@ -15,3 +15,4 @@ Wir freuen uns, dass Sea-Watch e.V. ein Teil des Open Infrastructure Orbits ist.
 Neben spannenden und gewinnbringenden Workshops und Diskussionen haben wir auch Vortrage im Orbit sehen können:
 
 * [Detection of refugee boats on the Mediterranean with a drone by using FOSS](https://media.freifunk.net/v/35c3oio-77-detection-of-refugee-boats-on-the-mediterranean-with-a-drone-by-using-foss "Video: Detection of refugee boats on the Mediterranean with a drone by using FOSS")
+* [Searchwing - Mit Drohnen leben retten](https://media.ccc.de/v/33c3-7963-searchwing_-_mit_drohnen_leben_retten "Searchwing - Mit Drohnen leben retten")
