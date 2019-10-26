@@ -3,7 +3,7 @@ title: "Nextcloud"
 layout: single
 excerpt: "Nextcloud ist eine quelloffene Software. Das Entwicklerteam trägt gern dazu bei den OIO großartig zu machen. "
 header:
-  teaser: /images/logos/nextcloud-logo-background.jpg
+  teaser: /images/logos/Nextcloud_Logo.svg
 ---
 
 Im Jahr 2016 ist [Nextcloud](https://nextcloud.com/ "Nextcloud") als Fork von Owncloud entstanden. Seitdem hat sich [Nextcloud](https://nextcloud.com/ "Nextcloud") im Funktionsumfang vom Datenspeicher zu einer Multifunktionalen modularen Plattform weiterentwickelt. Die Software ist frei und [quelloffen](https://github.com/nextcloud "Quellcode bei GitHub") und wird neben den Entwicklern um Frank Karlitschek von einer stetig wachsenden Community getragen.

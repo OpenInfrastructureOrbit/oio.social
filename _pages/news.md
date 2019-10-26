@@ -4,7 +4,7 @@ permalink: /news/
 show_excerpts: false
 classes: wide
 ---
-{% assign ordered_news = site.news | sort: 'date_time' %}
+{% assign ordered_news = site.news | sort: 'date_time' | reverse %}
 <ul>
     {% for item in ordered_news %}
     <li>
