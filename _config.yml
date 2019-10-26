@@ -53,9 +53,20 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+
+  
 
 collections:
   assemblies:
+    output: true
+    permalink: /:collection/:path/
+  news:
     output: true
     permalink: /:collection/:path/
 
