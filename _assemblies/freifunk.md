@@ -1,5 +1,5 @@
 ---
-title: "freifunk"
+title: "Freifunk"
 layout: single
 excerpt: "Freifunk steht für freie Kommunikation in digitalen Datennetzen."
 header:

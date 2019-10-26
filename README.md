@@ -1,4 +1,4 @@
- Open Infrastructure Orbit
+Open Infrastructure Orbit
 ===========================
 ![#OIO - Open Infrastructure Orbit](https://oio.social/images/OIO-badge.svg "OIO")
 
