@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/OpenInfrastructureOrbit/oio.social.svg?branch=master)](https://travis-ci.org/OpenInfrastructureOrbit/oio.social)
+
 Open Infrastructure Orbit
 ===========================
 ![#OIO - Open Infrastructure Orbit](https://oio.social/images/OIO-badge.svg "OIO")
