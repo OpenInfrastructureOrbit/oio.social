@@ -3,7 +3,7 @@ title: "Sea-Watch e.V."
 layout: single
 excerpt: "Sea-Watch e.V. steht für Zivile Seenotrettung von Flüchtenden und bereisen unseren sicheren Hafen regelmäßig und tragen damit zum humanitären Orbit bei."
 header:
-  teaser: /images/logos/seawatch-logo-175.png
+  teaser: /images/logos/seawatch_logo.svg
 ---
 
 [Sea-Watch](https://sea-watch.org/ "Homepage Seawatch") ist Ende 2014 aus einer Initiative von Freiwilligen entstanden, die dem Sterben im Mittelmeer nicht mehr länger tatenlos zusehen konnten. 2015 gründete sich aus diesem Engagement der Verein Sea-Watch e.V. mit dem eine nicht-staatliche Seenotrettung geschaffen wurde, die bisher an der Rettung von weit über 37.000 Menschen beteiligt war.
