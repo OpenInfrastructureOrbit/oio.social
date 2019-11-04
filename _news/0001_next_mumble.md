@@ -5,6 +5,6 @@ logo: "/images/logos/Icons_mumble.svg"
 external_url: "https://trello.com/b/eOnlhCjB/36c3-oio"
 ---
 
-Unser nächstes Mumble findet am 22.10.2019 im 20:00 Uhr statt.
+Unser nächstes Mumble findet am 22.10.2019 um 20:00 Uhr statt.
 
 Wir treffen uns auf [http://mumble.freifunk.net](http://mumble.freifunk.net)
