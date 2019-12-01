@@ -7,7 +7,7 @@ main:
     url: "http://spenden.oio.social"
   - title: "CfP"
     url: https://talks.oio.social/36c3-oio/cfp
-  - title: "Engelsystem"
-    url: https://engelsystem.oio.social
+  - title: "Einhornsystem"
+    url: https://einhorn.oio.social
   - title: "About"
     url: /about/
