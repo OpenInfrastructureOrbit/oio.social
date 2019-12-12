@@ -6,6 +6,13 @@ $text-color: #D0D0CE;
 $navicon-link-color-hover: #FE5000;
 $background-color: #000;
 
+img.teaserimage {
+  float: right;
+  max-width: 255px;
+  padding: 15px;
+  height: 151px;
+}
+
 @charset "utf-8";
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
