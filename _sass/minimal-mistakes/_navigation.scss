@@ -170,6 +170,9 @@
   margin-top: 2em;
   padding-top: 2em;
   border-top: 1px solid $border-color;
+  @media (prefers-color-scheme: dark) {
+    border-top: 1px solid $border-color-dark;
+  }
 }
 
 /*
@@ -517,6 +520,9 @@
   font-weight: bold;
   text-transform: uppercase;
   border-bottom: 1px solid $border-color;
+  @media (prefers-color-scheme: dark) {
+    border-bottom: 1px solid $border-color-dark;
+  }
 }
 
 /*
@@ -532,6 +538,11 @@
   -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;
 
+  @media (prefers-color-scheme: dark) {
+    background-color: $background-color-dark;
+    border: 1px solid $border-color-dark;
+  }
+
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
@@ -543,12 +554,6 @@
   // Scrollspy marks toc items as .active when they are in focus
   .active a {
     @include yiq-contrasted($active-color);
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  .toc {
-    background-color: $background-color-dark;
   }
 }
 
@@ -571,6 +576,9 @@
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
+    @media (prefers-color-scheme: dark) {
+      border-bottom: 1px solid $border-color-dark;
+    }
 
     &:hover {
       color: $text-color;
