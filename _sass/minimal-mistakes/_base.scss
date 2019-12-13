@@ -14,6 +14,9 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  @media (prefers-color-scheme: dark) {
+    color: $text-color-dark;
+  }
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -74,6 +77,9 @@ ins {
   a {
     color: inherit;
   }
+  @media (prefers-color-scheme: dark) {
+    border-bottom: 1px solid $text-color-dark
+  }
 }
 
 del a {
@@ -102,6 +108,9 @@ abbr[data-original-title] {
   text-decoration: none;
   cursor: help;
   border-bottom: 1px dotted $text-color;
+  @media (prefers-color-scheme: dark) {
+    border-bottom: 1px dotted $text-color-dark;
+  }
 }
 
 /* blockquotes */
@@ -112,6 +121,9 @@ blockquote {
   padding-right: 1em;
   font-style: italic;
   border-left: 0.25em solid $primary-color;
+  @media (prefers-color-scheme: dark) {
+    border-left: 0.25em solid $primary-color-dark;
+  }
 
   cite {
     font-style: italic;
@@ -132,10 +144,16 @@ a {
 
   &:visited {
     color: $link-color-visited;
+    @media (prefers-color-scheme: dark) {
+      color: $link-color-visited-dark;
+    }
   }
 
   &:hover {
     color: $link-color-hover;
+    @media (prefers-color-scheme: dark) {
+      color: $link-color-hover-dark;
+    }
     outline: 0;
   }
 }
@@ -170,6 +188,9 @@ td > code {
   font-size: 0.8em;
   background: $code-background-color;
   border-radius: $border-radius;
+  @media (prefers-color-scheme: dark) {
+    background: $code-background-color-dark;
+  }
 
   &:before,
   &:after {
@@ -272,6 +293,9 @@ figcaption {
   color: $muted-text-color;
   font-family: $caption-font-family;
   font-size: $type-size-6;
+  @media (prefers-color-scheme: dark) {
+    color: $muted-text-color-dark;
+  }
 
   a {
     -webkit-transition: $global-transition;
@@ -279,6 +303,9 @@ figcaption {
 
     &:hover {
       color: $link-color-hover;
+      @media (prefers-color-scheme: dark) {
+        color: $link-color-hover-dark;
+      }
     }
   }
 }

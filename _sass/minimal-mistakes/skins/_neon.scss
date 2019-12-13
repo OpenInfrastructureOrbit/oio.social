@@ -6,19 +6,29 @@
 $background-color: #141010 !default;
 $background-color-dark: #000 !default;
 $text-color: #fff6fb !default;
+$text-color-dark: #d0d0ce !default;
 $primary-color: #f21368 !default;
+$primary-color-dark: #fe5000 !default;
 $border-color: mix(#fff, $background-color, 20%) !default;
 $border-color-dark: mix(#fff, $background-color-dark, 20%) !default;
 $code-background-color: mix(#000, $background-color, 15%) !default;
-$code-background-color-dark: mix(#000, $background-color, 20%) !default;
+$code-background-color-dark: mix(#000, $background-color-dark, 15%) !default;
 $form-background-color: mix(#000, $background-color, 15%) !default;
+$form-background-color-dark: mix(#000, $background-color-dark, 15%) !default;
 $footer-background-color: mix($primary-color, #000, 10%) !default;
+$footer-background-color-dark: mix($primary-color-dark, #000, 10%) !default;
 $link-color: $primary-color !default;
+$link-color-dark: $primary-color-dark !default;
 $link-color-hover: mix(#fff, $link-color, 25%) !default;
+$link-color-hover-dark: mix(#fff, $link-color-dark, 25%) !default;
 $link-color-visited: mix(#000, $link-color, 25%) !default;
+$link-color-visited-dark: mix(#000, $link-color-dark, 25%) !default;
 $masthead-link-color: $text-color !default;
+$masthead-link-color-dark: $text-color-dark !default;
 $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
+$masthead-link-color-hover-dark: mix(#000, $text-color-dark, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
+$navicon-link-color-hover-dark: mix(#000, $background-color-dark, 30%) !default;
 
 /* neon syntax highlighting (base16) */
 $base00: #ffffff !default;
@@ -62,4 +72,7 @@ $base0f: #cc6633 !default;
 
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
+  @media (prefers-color-scheme: dark) {
+    background-color: $form-background-color-dark;
+  }
 }

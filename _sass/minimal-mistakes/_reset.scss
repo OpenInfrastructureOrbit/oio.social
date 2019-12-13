@@ -82,6 +82,9 @@ audio:not([controls]) {
 
 a {
   color: $link-color;
+  @media (prefers-color-scheme: dark) {
+    color: $link-color-dark;
+  }
 }
 
 /* Apply focus state */

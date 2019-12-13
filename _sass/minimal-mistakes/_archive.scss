@@ -28,17 +28,16 @@
   font-size: $type-size-5;
   color: $muted-text-color;
   border-bottom: 1px solid $border-color;
+  @media (prefers-color-scheme: dark) {
+    border-bottom: 1px solid $border-color-dark;
+    color: $muted-text-color-dark;
+    }
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
   }
 }
 
-@media (prefers-color-scheme: dark) {
-  .archive__subtitle {
-    border-bottom: 1px solid $border-color-dark;
-  }
-}
 
 .archive__item-title {
   margin-bottom: 0.25em;

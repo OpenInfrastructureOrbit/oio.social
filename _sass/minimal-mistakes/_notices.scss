@@ -73,6 +73,9 @@
 
 .notice--primary {
   @include notice($primary-color);
+  @media (prefers-color-scheme: dark) {
+    @include notice($primary-color-dark);
+  }
 }
 
 /* Info notice */

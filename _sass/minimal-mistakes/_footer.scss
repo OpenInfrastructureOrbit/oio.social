@@ -21,6 +21,10 @@
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
   background-color: $footer-background-color;
+  @media (prefers-color-scheme: dark) {
+    color: $muted-text-color-dark;
+    background-color: $footer-background-color-dark;
+  }
 
   footer {
     @include clearfix;
@@ -49,6 +53,9 @@
   .far,
   .fal {
     color: $muted-text-color;
+    @media (prefers-color-scheme: dark) {
+      color: $muted-text-color-dark;
+    }
   }
 }
 

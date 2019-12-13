@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Open Infrastructure Orbit
-logo: /images/36c3-oio-destruction-square.svg
+logo: /images/oioss-text.svg
+logo-dark: /images/36c3-oio-destruction-square.svg
 email: 35c3-orga@freifunk.space
 description: >- # this means to ignore newlines until "baseurl:"
   Der Open Infrastructure Orbit bietet allen Vereinigungen rund um das Thema “Offene Infrastruktur” die Möglichkeit, ihre Projekte und Konzepte zu präsentieren und sich miteinander auszutauschen.

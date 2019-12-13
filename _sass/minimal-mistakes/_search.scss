@@ -19,9 +19,15 @@
   cursor: pointer;
   -webkit-transition: 0.2s;
   transition: 0.2s;
+  @media (prefers-color-scheme: dark) {
+    color: $primary-color-dark;
+  }
 
   &:hover {
     color: mix(#000, $primary-color, 25%);
+    @media (prefers-color-scheme: dark) {
+      color: mix(#000, $primary-color-dark, 25%);
+    }
   }
 }
 
@@ -123,10 +129,16 @@
   color: $primary-color;
   font-style: normal;
   text-decoration: underline;
+  @media (prefers-color-scheme: dark) {
+    color: $primary-color-dark;
+  }
 }
 
 .archive__item-excerpt .ais-Highlight {
   color: $primary-color;
   font-style: normal;
   font-weight: bold;
+  @media (prefers-color-scheme: dark) {
+    color: $primary-color-dark;
+  }
 }

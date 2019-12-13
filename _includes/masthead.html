@@ -4,7 +4,12 @@
       <nav id="site-nav" class="greedy-nav">
         <a class="site-title" href="{{ '/' | relative_url }}">
           {% if site.logo %}
-          <img src="{{site.logo}}" alt="{{ site.title }}" style="height: 120px;"/>
+          <picture>
+            {% if site.logo-dark %}
+              <source srcset="{{site.logo-dark}}" media="(prefers-color-scheme: dark)">
+            {% endif %}
+            <img src="{{site.logo}}" alt="{{ site.title }}" style="height: 120px;"/>
+          </picture>
           {% else %}
           {{ site.title }}
           {% endif %}

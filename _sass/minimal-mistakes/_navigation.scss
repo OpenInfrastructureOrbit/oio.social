@@ -85,22 +85,32 @@
 
       @media (prefers-color-scheme: dark) {
         border: 1px solid mix(#000, $border-color-dark, 25%);
+        color: $muted-text-color-dark;
       }
 
       &:hover {
         color: $link-color-hover;
+        @media (prefers-color-scheme: dark) {
+          background: $link-color-hover-dark;
+        }
       }
 
       &.current,
       &.current.disabled {
         color: #fff;
         background: $primary-color;
+        @media (prefers-color-scheme: dark) {
+          background: $primary-color-dark;
+        }
       }
 
       &.disabled {
         color: rgba($muted-text-color, 0.5);
         pointer-events: none;
         cursor: not-allowed;
+        @media (prefers-color-scheme: dark) {
+          color: rgba($muted-text-color-dark, 0.5);
+        }
       }
     }
 
@@ -138,10 +148,14 @@
 
     @media (prefers-color-scheme: dark) {
       border: 1px solid mix(#000, $border-color-dark, 25%);
+      color: $muted-text-color-dark;
     }
 
     &:hover {
       @include yiq-contrasted($muted-text-color);
+      @media (prefers-color-scheme: dark) {
+        @include yiq-contrasted($muted-text-color-dark);
+      }
     }
 
     &:first-child {
@@ -159,6 +173,9 @@
       color: rgba($muted-text-color, 0.5);
       pointer-events: none;
       cursor: not-allowed;
+      @media (prefers-color-scheme: dark) {
+        color: rgba($muted-text-color-dark, 0.5);
+      }
     }
   }
 }
@@ -195,9 +212,15 @@
     margin: 0 1rem;
     color: $masthead-link-color;
     text-decoration: none;
+    @media (prefers-color-scheme: dark) {
+      color: $masthead-link-color-dark;
+    }
 
     &:hover {
       color: $masthead-link-color-hover;
+      @media (prefers-color-scheme: dark) {
+        color: $masthead-link-color-hover-dark;
+      }
     }
 
     &.site-logo {
@@ -253,6 +276,9 @@
         transition: $global-transition;
         -webkit-transform: scaleX(0) translate3d(0, 0, 0);
         transform: scaleX(0) translate3d(0, 0, 0); // hide
+        @media (prefers-color-scheme: dark) {
+          background: $primary-color-dark;
+        }
       }
 
       &:hover:before {
@@ -288,6 +314,9 @@
       &:hover {
         color: $masthead-link-color-hover;
         background: $navicon-link-color-hover;
+        @media (prefers-color-scheme: dark) {
+          color: $masthead-link-color-hover-dark;
+        }
       }
     }
 
@@ -549,6 +578,9 @@
     background: $primary-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
+    @media (prefers-color-scheme: dark) {
+      background: $primary-color-dark;
+    }
   }
 
   // Scrollspy marks toc items as .active when they are in focus
@@ -578,10 +610,14 @@
     border-bottom: 1px solid $border-color;
     @media (prefers-color-scheme: dark) {
       border-bottom: 1px solid $border-color-dark;
+      color: $muted-text-color-dark;
     }
 
     &:hover {
       color: $text-color;
+    }
+    @media (prefers-color-scheme: dark) {
+      color: $text-color-dark;
     }
   }
 

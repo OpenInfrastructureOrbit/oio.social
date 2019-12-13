@@ -205,6 +205,9 @@ body:hover .visually-hidden button {
   .far,
   .fal {
     color: $text-color;
+    @media (prefers-color-scheme: dark) {
+      color: $text-color-dark;
+    }
   }
 
   .fa-behance,
@@ -330,6 +333,9 @@ body:hover .visually-hidden button {
   margin: auto;
   -webkit-transition: 0.3s;
   transition: 0.3s;
+  @media (prefers-color-scheme: dark) {
+    background: $primary-color-dark;
+  }
 
   &:before,
   &:after {
@@ -382,6 +388,9 @@ body:hover .visually-hidden button {
   .navicon:before,
   .navicon:after {
     background: mix(#000, $primary-color, 25%);
+    @media (prefers-color-scheme: dark) {
+      background: mix(#000, $primary-color-dark, 25%);
+    }
   }
 
   &.close {
