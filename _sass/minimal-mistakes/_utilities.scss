@@ -347,6 +347,9 @@ body:hover .visually-hidden button {
     background: $primary-color;
     -webkit-transition: 0.3s;
     transition: 0.3s;
+    @media (prefers-color-scheme: dark) {
+      background: $primary-color-dark;
+    }
   }
 
   &:before {
