@@ -1,10 +1,14 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-$primary-color: #FE5000;
-$text-color: #D0D0CE;
-$navicon-link-color-hover: #FE5000;
-$background-color: #000;
+$primary-color: #00BB31;
+$primary-color-dark: #FE5000;
+$text-color: #000;
+$text-color-dark: #D0D0CE;
+$navicon-link-color-hover-dark: #FE5000;
+$navicon-link-color-hover: #00BB31;
+$background-color: #D0D0CE;
+$background-color-dark: #000;
 
 img.teaserimage {
   float: right;

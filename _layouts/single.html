@@ -43,7 +43,12 @@ layout: default
           </aside>
         {% endif %}
         {% if page.header.teaser %}
+        <picture>
+          {% if page.header.teaser-dark %}
+            <source srcset="{{page.header.teaser-dark}}" media="(prefers-color-scheme: dark)">
+          {% endif %}
           <img class="teaserimage" src="{{ page.header.teaser }}" style="">
+        </picture>
         {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}

@@ -5,7 +5,7 @@ excerpt: "GNUnet is a network protocol stack for building secure, distributed, a
 header:
   teaser: /images/logos/gnunet-logo.png
 ---
-![Logo GNUnet](/images/logos/gnunet-logo.png "Logo GNUnet")
+
 
 [GNUnet](https://https://gnunet.org "GNUnet.org Website") is a new network protocol stack for building secure, distributed, and privacy-preserving applications. With strong roots in academic research, our goal is to replace the old insecure Internet protocol stack.
 
