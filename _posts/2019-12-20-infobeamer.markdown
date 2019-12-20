@@ -6,8 +6,9 @@ date:   2019-12-20 22:50:42 +0100
 ---
 
 Hallo zusammen,  
+auch in diesem Jahr werdet ihr Info-Screens an euren Assemblies finden, welche darauf warten mit Content bespielt zu werden. 
 
-auch in diesem Jahr werdet ihr Info-Screens an euren Assemblies finden, welche darauf warten mit Content bespielt zu werden. Wir werden euch hierfür Raspberry Pi's mit Info-beamer bereiststellen. Den Content bekommt ihr auf drei verschiedenen Wegen auf die Displays. 
+Wir werden euch hierfür Raspberry Pi's mit Info-beamer bereiststellen. Den Content bekommt ihr auf drei verschiedenen Wegen auf die Displays. 
 
 1. Ihr klickt euch, sofern noch nicht vorhanden, einen Account bei [info-beamer.com](https://info-beamer.com){:target="_blank" :rel="noopener noreferrer"} und managed die Displays selbst 
 
