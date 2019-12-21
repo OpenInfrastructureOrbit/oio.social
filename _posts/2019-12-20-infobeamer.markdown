@@ -1,14 +1,14 @@
 ---
 layout: single
-title:  "Eine kleine Anleitung zum Infobeamer"
+title:  "Eine kleine Anleitung zu info-beamer"
 date:   2019-12-20 22:50:42 +0100
 #categories: 36c3 info
 ---
 
 Hallo zusammen,  
-auch in diesem Jahr werdet ihr Info-Screens an euren Assemblies finden, welche darauf warten mit Content bespielt zu werden. 
+auch in diesem Jahr werdet ihr Displays an euren Assemblies finden, welche darauf warten mit Content bespielt zu werden. 
 
-Wir werden euch hierfür Raspberry Pi's mit Info-beamer bereiststellen. Den Content bekommt ihr auf drei verschiedenen Wegen auf die Displays. 
+Wir werden euch hierfür Raspberry Pi's mit info-beamer bereiststellen. Den Content bekommt ihr auf drei verschiedenen Wegen auf die Displays. 
 
 1. Ihr klickt euch, sofern noch nicht vorhanden, einen Account bei [info-beamer.com](https://info-beamer.com){:target="_blank" :rel="noopener noreferrer"} und managed die Displays selbst 
 
@@ -16,7 +16,7 @@ Wir werden euch hierfür Raspberry Pi's mit Info-beamer bereiststellen. Den Cont
 
 3. Ihr stellt uns den Content, den ihr präsentieren wollt bereit und wir managen die Pi's für euch.  
 
-Solltet ihr euch für 1.) entscheiden: Wir werden an Day Zero um 22.00 Uhr eine kurze Info-Beamer - Einführung Session anbieten 😉.  
+Solltet ihr euch für 1.) entscheiden: Wir werden an Day Zero um 22.00 Uhr eine kurze info-beamer - Einführung Session anbieten 😉.  
 
 Falls eure Entscheidung auf 3.) fällt, könnt ihr unter folgenden Link euren Content uns bereitstellen:  
 
@@ -28,7 +28,7 @@ In diesem Share  befinden Ordner mit eurem Assembly Namen. Darin findet ihr drei
 * slides 
 * videos    
 
-Die folgende Formate werden von Info-Beamer unterstützt:
+Die folgende Formate werden von info-beamer unterstützt:
     
 * PNG images with up to 2048x2048 pixels resolution. 
 * JPG images with up to 2048x2048 pixels resolution. JPG files must use use the RGB color space. Don't use sRGB while exporting your images as this color space is not supported! 
@@ -36,7 +36,7 @@ Die folgende Formate werden von Info-Beamer unterstützt:
 
 
     
-Bitte die Slides als JPG oder PNG exportieren. Solltet ihr eine Webseite haben, die statisch anzeigt werden soll, teilt und einfach die URL mit. Videos können mit und ohne Ton wiedergegeben werden.  
+Bitte die Slides als JPG oder PNG exportieren. Solltet ihr eine Webseite haben, die statisch anzeigt werden soll, teilt uns einfach die URL mit. Videos können mit und ohne Ton wiedergegeben werden.  
 
 Bei Fragen einfach melden.  
      
