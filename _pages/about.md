@@ -8,12 +8,12 @@ Der Open Infrastructure Orbit *(auch: die Marina)* ist der sichere Hafen für al
 
 Die Marina befindet sich im Zentrum von Halle 2, den Assemblys des 36. Chaos Communication Congress.
 
-Wir haben eine Bühne für Präsenationen, Boote mit Sitzplätzen wo du die verschiedenen Gruppen unserer Marina treffen kannst sowie einen Workshop Raum. Weiterhin gibt es eine Lounge und einen Art zum Stickertausch. Das Programm wird in [unserem Pretalx](https://talks.oio.social/36c3-oio/ "Pretalx 36c3 Open Infrastructure Orbit") geplant und kommt gern vorbei!
+Wir haben eine Bühne für Präsenationen, Boote mit Sitzplätzen wo du die verschiedenen Gruppen unserer Marina treffen kannst sowie einen Workshop Raum. Weiterhin gibt es eine Lounge und einen Ort zum Stickertausch. Das Programm wird in [unserem Pretalx](https://talks.oio.social/36c3-oio/ "Pretalx 36c3 Open Infrastructure Orbit") geplant und kommt gern vorbei!
 
 Weitere Informationen zum Open Infrastructure Orbit gibt es in Wiki auf [wiki.freifunk.net/36c3](https://wiki.freifunk.net/36c3).
 
 Den Jekyll Quelltext für diese Seite gibt es auf GitHub:
-[github.com/andibraeu/oio.social](https://github.com/andibraeu/oio.social)<br/>
+[github.com/OpenInfrastructureOrbit/oio.social](https://github.com/OpenInfrastructureOrbit/oio.social)<br/>
 *Pull-Requests sind immer gerne gesehen!*
 
 =================
@@ -27,5 +27,5 @@ We have a stage with presentations, boats with seats where you can meet the vari
 Further information to the open Infrastructure Orbit and/or Marina can be found in our Wiki on [wiki.freifunk.net/36c3](https://wiki.freifunk.net/36c3).
 
 The Jekyll built source code for this site is available on GitHub:
-[github.com/andibraeu/oio.social](https://github.com/andibraeu/oio.social)<br/>
+[github.com/OpenInfrastructureOrbit/oio.social](https://github.com/OpenInfrastructureOrbit/oio.social)<br/>
 *Pull requests are always welcome!
