@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Die Open Infrastructure Orbit *(auch: die Marina)* ist der sichere Hafen für alle Gruppen, Institutionen und Individuen die sich mit offener Infrastruktur befassen. Während wir im Laufe des Jahres in verschiedenen Gewässern unterwegs sind, treffen wir uns zum 36c3 in unserem Orbit *(unserer Marina)* um uns über die Erlebnisse des vergangenen, sowie über Visionen für die kommenden jahre auszutauschen.
+Der Open Infrastructure Orbit *(auch: die Marina)* ist der sichere Hafen für alle Gruppen, Institutionen und Individuen die sich mit offener Infrastruktur befassen. Während wir im Laufe des Jahres in verschiedenen Gewässern unterwegs sind, treffen wir uns zum 36c3 in unserem Orbit *(unserer Marina)* um uns über die Erlebnisse des vergangenen, sowie über Visionen für die kommenden jahre auszutauschen.
 
 Die Marina befindet sich im Zentrum von Halle 2, den Assemblys des 36. Chaos Communication Congress.
 
