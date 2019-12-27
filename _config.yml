@@ -31,6 +31,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/openinfrastructureorbit"
+    - label: "IRC"
+      icon: "far fa-comment-dots"
+      url: "https://webirc.hackint.org/#irc://irc.hackint.org/#oio-stage"
 
 # Build settings
 markdown: kramdown
