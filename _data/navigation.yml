@@ -5,9 +5,7 @@ main:
     url: /blog/
   - title: "Spenden"
     url: "http://spenden.oio.social"
-  - title: "Fahrplan"
-    url: https://talks.oio.social/36c3-oio/schedule
-  - title: "Einhornsystem"
-    url: https://einhorn.oio.social
+  - title: "CfP"
+    url: https://talks.oio.social
   - title: "About"
     url: /about/

@@ -1,6 +1,6 @@
 ---
 layout: collection
-collection: assemblies
+# collection: assemblies
 entries_layout: grid
 classes: wide
 permalink: /
@@ -13,13 +13,16 @@ Willkommen beim Open Infrastructure Orbit - OIO
 
 Der Open Infrastructure Orbit ist der sichere Hafen für alle Gruppen, Institutionen und Individuen die sich mit offener Infrastruktur befassen. [Weiterlesen...](/about)
 
-Der OIO auf dem 36c3 
+Der OIO auf dem [rC3 – remote Chaos Experience](https://events.ccc.de/2020/09/04/rc3-remote-chaos-experience/)
 ---------
 
-* Sprich uns am Infotresen direkt im [Zentrum unseres Orbits beim Leuchturm an](https://36c3.c3nav.de/l/oio/){:target='_blank'}{:rel='noopener noreferrer'}.
-* Unsere Talks findest du auf [media.freifunk.net](https://media.freifunk.net/c/36c3-oio){:target='_blank'}{:rel='noopener noreferrer'}.
-* Fragen während der Talks kannst du auch im IRC im Channel _#oio-stage_ stellen: [webirc.hackint.org](https://webirc.hackint.org/#irc://irc.hackint.org/#oio-stage){:target='_blank'}{:rel='noopener noreferrer'}
+### Was könnt ihr tun?
+
+* Sammelt Ideen, wie ihr euch als Assembly beteiligen könnt/möchtet.
+* Macht mit bei unserem Call for Participation/People/Ideas. Link folgt.
+* Kommt zu unseren Treffen, Details hierzu folgen.
 
 
-Diese Communities sind Teil unseres Orbits:
+<!--Diese Communities sind Teil unseres Orbits:
 --------
+-->

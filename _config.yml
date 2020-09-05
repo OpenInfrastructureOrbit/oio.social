@@ -69,7 +69,7 @@ defaults:
 
 collections:
   assemblies:
-    output: true
+    output: false
     permalink: /:collection/:path/
   news:
     output: true
