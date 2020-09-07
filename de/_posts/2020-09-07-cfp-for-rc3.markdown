@@ -1,0 +1,44 @@
+---
+layout: single
+title: "OIO auf dem rc3: Call for Participation/People/Ideas"
+date: 2020-09-07 13:37:42 +0100
+lang: de
+ref: rc3-cfp
+---
+
+
+Der Open Infrastructure Orbit als sicherer Hafen für freie und offene Infrastruktur bietet (virtuellen) Raum für Projekte, Gruppen oder Communities rund um das Thema. In diesem Jahr wird es keinen Congress geben, wie wir ihn aus den letzten Jahren kannten. Stattdessen wird es wohl eine verteilte Veranstaltung geben, mit vielen Möglichkeiten, remote daran teilzunehmen.
+Auch für den OIO ist das in gewisser Weise Neuland. Neben technischen Herausforderungen gilt es Ideen zu finden, wie wir die Tage zwischen Weihnachten und Neujahr spannend ausfüllen können. Dazu könnt ihr eure Ideen besteuern. Lasst uns verrückte Dinge tun, mit weniger Holz und B1, dafür mit mehr Cyberspace. Schließlich gibt uns eine Veranstaltung, an der man sich remote beteiligen kann auch Chancen:
+
+* Es können Menschen teilnehmen, die sonst vielleicht kein Ticket bekommen hätten oder sich keines leisten konnten.
+* Menschen aus anderen Ländern/von anderen Kontinenten können sich beteiligen. In anderen Jahren war ihnen vielleicht die Anreise nach Deutschland zu weit.
+* Zeit, die wir investiert haben, um unser Habitat zu bauen können wir nun einsetzen, um Inhalte vorzubereiten.
+
+Partizipationsmöglichkeiten:
+* Wir planen, eine Bühne ohne Publikum, aber dafür mit Equipment und tatkräftiger Unterstützung zum Streamen anzubieten.
+* Wir möchten eine Workshop Area gestalten, bei der Menschen von remote zusehen oder - je nachdem was ihr plant - auch von zu Hause aus parallel mit euch an einem Projekt arbeiten können.
+* Ihr bekommt Beratung und Tipps für ein Streaming Setup zu Hause, damit ihr auch Talks von zu Hause aus aufnehmen oder geben könnt.
+* Es soll eine Plattform geben, um Diskussionsrunden oder Panels Remote durchzuführen
+* Und natürlich, damit der persönliche Austausch nicht zu kurz kommt, soll es eine virtuelle Kaffeebar/Sofaecke und Spieleecken geben.
+
+Und hier ist eure Kreativität gefordert:
+
+* Wie könnt ihr euch als Assembly im Cyberspace präsentieren?
+* Welche Formate kennt ihr, um mit anderen virtuell/remote Workshops durchzuführen?
+* Was könnt ihr remote machen, was ihr auf dem Congress nicht tun könntet?
+* Kennt ihr gemeinsame Onlinespiele, bei denen man mitmachen oder einfach nur zusehen kann?
+* Habt ihr Ideen wie "Yogaworkshop - gemeinsam Sport machen" oder "Bob Ross - zusammen malen"?
+
+Wenn ihr Ideen entwickelt, denkt bitte auch an diese Fragen:
+
+* Wie stellt ihr euch das ungefähr vor? (grobes Konzept)
+* Welche Technik wird benötigt?
+* Welche Voraussetzungen müssen für TeilnehmerInnen erfüllt sein?
+* Was kostet es?
+
+Zum jetzigen Zeitpunkt sind wir auf der Suche nach Ideen für Formate oder Möglichkeiten, sich im digitalen Raum zu bewegen. Für konkrete Dinge wie Talks, Workshops, Parties, $Ideenumsetzung wird es dann die Möglichkeit geben, sich unter https://talks.oio.social anzumelden und sie einzureichen.
+
+Wenn ihr uns bei der Organisation helfen oder Informationen über eure Assembly geben wollt, findet Ihr die Termine demnächst auf unserer Website https://oio.social
+
+Viele Grüße
+Das OIO Orgateam

@@ -1,0 +1,47 @@
+---
+layout: single
+title: "OIO at rc3: Call for Participation/People/Ideas"
+date: 2020-09-07 13:37:42 +0100
+lang: en
+ref: rc3-cfp
+---
+
+OIO - Call for Ideas/Participation
+
+The Open Infrastructure Orbit is a save harbor for free <(as in freedom)> and open infrastructure and is providing a space for related projects, groups and communities. There won't be a congress this year, at least not in the same way we know from previous years. Instead, there is going to be a distributed event, with lots of opportunities for remote participation.
+This is also to some extend uncharted waters for the OIO. We want to spend the days at the end of the year doing and learning about interesting things, regardless of the technical challenges. This is where you can come in, we need your ideas! Let's build amazing things,
+this time not with OSHA-compliant carpentry , but out there in Cyberspace! After all, an event with a large portion of remote participation also provides us with some new opportunities:
+
+* People can participate who might otherwise not been able to get a ticket in pre-sale, or could not afford travel & accommodation.
+* People from other countries or continents can participate, without traveling all the way to Germany.
+* The time usually invested in building the structure of our habitat is now available to come up with content for the event. 
+
+How to participate
+
+* We are planing a stage without audience, but with all the equipment and expertise needed to stream your talks.
+* We are planing a workshop area for remote participation or even following along at home.
+* You will get tips and tricks for your home setup, so you can record or stream your talks and workshops from the comfort of your own walls.
+* There is going to be a platform for remote panels and round table discussions
+* And of course, to provide at least some form of casual personal interaction, virtual watercoolers/coffe tables/sofa corners/playrooms/etc.
+
+Now we need your creativity:
+
+* How could your assembly be presented in cyberspace?
+* Which formats would you suggest for virtual/remote workshops?
+* What could you do remotely, which could not have been done during an on-site Congress?
+* Do you know community multi-player games fit for playing or spectating during the event?
+* Do you have ideas like "Yoga workshop - exercising together" oder "b0B r022 - the joy of (digital) painting"?
+
+When coming up with ideas, please ask yourself the following questions:
+
+* What are you planing to do (rough concept)?
+* What kinds of hard- & software do you need?
+* What are the prerequisites for remote participants?
+* What does it cost to implement your idea?
+
+At the moment, we are looking for ideas for formats and ways to move through a digital space.  For more tangible things like talks, workshops, parties, $realisationOfIdea there will be a way to submit your proposals at https://talks.oio.social.
+
+If you want to help us organizing or want to provide us with information about your assembly, please look for updates on upcoming times and dates on our website https://oio.social.
+
+Best regards
+The OIO orga-team
