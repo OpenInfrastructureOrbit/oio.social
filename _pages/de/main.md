@@ -21,7 +21,7 @@ Der OIO auf dem [rC3 – remote Chaos Experience](https://events.ccc.de/2020/09/
 ### Was könnt ihr tun?
 
 * Sammelt Ideen, wie ihr euch als Assembly beteiligen könnt/möchtet.
-* Macht mit bei unserem Call for Participation/People/Ideas. Link folgt.
+* Macht mit bei unserem [Call for Participation/People/Ideas]({% post_url /de/2020-09-07-cfp-for-rc3 %}).
 * Kommt zu unseren Treffen, Details hierzu folgen.
 
 
