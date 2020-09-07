@@ -1,11 +1,25 @@
-main:
-  - title: "News"
-    url: /news/
-  - title: "Blog"
-    url: /blog/
-  - title: "Spenden"
-    url: "http://spenden.oio.social"
-  - title: "CfP"
-    url: https://talks.oio.social
-  - title: "About"
-    url: /about/
+languages:
+  - language: "de"
+    links:
+    - title: "Neues"
+      url: /news/
+    - title: "Blog"
+      url: /blog/
+    - title: "Spenden"
+      url: "http://spenden.oio.social"
+    - title: "CfP"
+      url: https://talks.oio.social
+    - title: "Über"
+      url: /about/
+  - language: "en"
+    links:
+    - title: "News"
+      url: /en/news/
+    - title: "Blog"
+      url: /en/blog/
+    - title: "Donations"
+      url: "http://spenden.oio.social"
+    - title: "CfP"
+      url: https://talks.oio.social
+    - title: "About"
+      url: /en/about/
