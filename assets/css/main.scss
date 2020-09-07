@@ -19,8 +19,19 @@ img.teaserimage {
 
 .en:lang(en), .de:lang(de){
     font-weight: bold;
+    color: $primary-color;
+    @media (prefers-color-scheme: dark) {
+      color: $primary-color-dark;
+      }
 }
 
+div.language-switch{
+  display: flex;
+}
+
+div.language-switch a{
+  margin: 0;
+}
 
 @charset "utf-8";
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin

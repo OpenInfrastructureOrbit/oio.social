@@ -38,23 +38,6 @@
             </li>
           {%- endfor -%}
         </ul>
-        {% if page.ref %}
-        <ul>
-        {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-        {% for post in posts %}
-          <li>
-            <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
-          </li>
-        {% endfor %}
-
-        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-        {% for page in pages %}
-          <li>
-            <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
-          </li>
-        {% endfor %}
-        </ul>
-        {% endif %}
 
         {% if site.search == true %}
         <button class="search__toggle" type="button">
@@ -68,6 +51,24 @@
           <div class="navicon"></div>
         </button>
         <ul class="hidden-links hidden"></ul>
+        <div class="language-switch">
+          {% if page.ref %}
+            {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+            {% for post in posts %}
+              <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+              {% if forloop.last == false %}
+                |
+              {% endif %}
+            {% endfor %}
+            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+            {% for page in pages %}
+              <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+              {% if forloop.last == false %}
+                |
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        </div>
       </nav>
     </div>
   </div>
