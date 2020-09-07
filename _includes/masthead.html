@@ -2,7 +2,11 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | relative_url }}">
+        {% if page.lang == "de" %}
+          <a class="site-title" href="{{ '/' | relative_url }}">
+        {% else %}
+          <a class="site-title" href="{{ '/' | append: page.lang | relative_url }}">
+        {% endif %}
           {% if site.logo %}
           <picture>
             {% if site.logo-dark %}
