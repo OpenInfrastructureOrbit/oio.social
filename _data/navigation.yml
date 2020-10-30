@@ -8,7 +8,7 @@ languages:
     - title: "Spenden"
       url: "http://spenden.oio.social"
     - title: "CfP"
-      url: https://talks.oio.social
+      url: https://talks.rc3.oio.social/r3c-oio/cfp 
     - title: "Über"
       url: /about/
   - language: "en"
@@ -20,6 +20,6 @@ languages:
     - title: "Donations"
       url: "http://spenden.oio.social"
     - title: "CfP"
-      url: https://talks.oio.social
+      url: https://talks.rc3.oio.social/r3c-oio/cfp
     - title: "About"
       url: /en/about/

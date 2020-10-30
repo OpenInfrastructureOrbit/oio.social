@@ -18,7 +18,7 @@ Depending on your situation and equipment, different forms of participation are 
 Due to the current situation, we want you to only come to our stages when you're living in the immediate vicinity. If you are not able to participate on site, you are welcome to record your talks in advance to avoid live mishaps. After the presentations, we will provide a virtual room for Q&As and longer discussions.
 
 ### Submit
-You can submit your talk/workshop/topic in our [pretalx](https://talks.rc3.oio.social/r3c-oio) If you have any questions regarding the technical implementation, please contact [our content team](mailto:cfp@oio.social). If participants need to prepare certain things for your workshop, please mention this in detail in the description.
+You can submit your talk/workshop/topic in our [pretalx](https://talks.rc3.oio.social/r3c-oio/cfp) If you have any questions regarding the technical implementation, please contact [our content team](mailto:cfp@oio.social). If participants need to prepare certain things for your workshop, please mention this in detail in the description.
 
 
 We are looking forward to your submissions.
