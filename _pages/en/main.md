@@ -21,7 +21,7 @@ OIO at [rC3 – remote Chaos Experience](https://events.ccc.de/2020/09/04/rc3-re
 ### What are the next steps?
 
 * Collect ideas on how to participate as assembly.
-* See our [Call for Participation/People/Ideas]({% post_url /en/2020-09-07-cfp-for-rc3 %}).
+* See our [Call for Participation/People/Ideas]({% post_url /en/2020-10-30-cfp-oio-about-freedomrc3 %}).
 * Join our meetings, details follow.
 
 
