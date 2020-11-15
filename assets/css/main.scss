@@ -1,13 +1,14 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-$primary-color: #00BB31;
-$primary-color-dark: #FE5000;
-$text-color: #000;
-$text-color-dark: #D0D0CE;
+
+$primary-color: #05B9EC;
+$primary-color-dark: #B239FF;
+$text-color: #FFFFFF;
+$text-color-dark: #FFFFFF;
 $navicon-link-color-hover-dark: #FE5000;
 $navicon-link-color-hover: #00BB31;
-$background-color: #D0D0CE;
+$background-color: #000;
 $background-color-dark: #000;
 
 img.teaserimage {
@@ -34,5 +35,6 @@ div.language-switch a{
 }
 
 @charset "utf-8";
+@import "rc3fonts";
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
