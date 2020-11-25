@@ -1,6 +1,6 @@
 ---
 layout: collection
-# collection: assemblies
+collection: assemblies
 entries_layout: grid
 classes: wide
 lang: en
@@ -25,6 +25,5 @@ OIO at [rC3 – remote Chaos Experience](https://events.ccc.de/2020/09/04/rc3-re
 * Join our meetings, details follow.
 
 
-<!--Diese Communities sind Teil unseres Orbits:
+These communites are part of our orbit:
 --------
--->
