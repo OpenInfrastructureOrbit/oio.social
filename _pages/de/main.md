@@ -13,7 +13,7 @@ permalink: /
 Willkommen beim Open Infrastructure Orbit - OIO
 =========================================
 
-Der Open Infrastructure Orbit ist der sichere Hafen für alle Gruppen, Institutionen und Individuen die sich mit offener Infrastruktur befassen. [Weiterlesen...](/about)
+Der Open Infrastructure Orbit ist der sichere Hafen für alle Gruppen, Institutionen und Individuen die sich mit offener Infrastruktur befassen. Zusammen mit about:freedom gestalten wir einen Bereich beim #rC3. [Weiterlesen...](/about)
 
 Der OIO auf dem [rC3 – remote Chaos Experience](https://events.ccc.de/2020/09/04/rc3-remote-chaos-experience/)
 ---------

@@ -13,7 +13,7 @@ permalink: /en
 Welcome to the Open Infrastructure Orbit - OIO
 =========================================
 
-The Open Infrastructure Orbit *(also: the Marina)* is a safe haven for all groups and individuals dealing with and building open infrastructure. [Read more...](/en/about)
+The Open Infrastructure Orbit *(also: the Marina)* is a safe haven for all groups and individuals dealing with and building open infrastructure. Together with about:freedom we are creating an area at #rC3. [Read more...](/en/about)
 
 OIO at [rC3 – remote Chaos Experience](https://events.ccc.de/2020/09/04/rc3-remote-chaos-experience/)
 ---------
