@@ -5,7 +5,7 @@
         {% if page.lang == "de" %}
           <a class="site-title" href="{{ '/' | relative_url }}">
         {% else %}
-          <a class="site-title" href="{{ '/' | append: page.lang | relative_url }}">
+          <a class="site-title" href="{{ '/' | append: page.lang | append: ".html" | relative_url }}">
         {% endif %}
           {% if site.logo %}
           <picture>

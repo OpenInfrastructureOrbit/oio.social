@@ -5,7 +5,7 @@ entries_layout: grid
 classes: wide
 lang: en
 ref: main
-permalink: /en
+permalink: /en.html
 ---
 {% include assembly_teaser.html %}
 

@@ -73,7 +73,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   news:
-    output: true
+    output: false
     permalink: /:collection/:path/
 include: ["_pages"]
 
