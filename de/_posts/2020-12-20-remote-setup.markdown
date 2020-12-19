@@ -53,7 +53,7 @@ Der Ablauf ist grundsätzlich so:
 
 * Wenn ihr Folien mit "Video+Ton-Einspielern" habt: **Chrome/Chromium** ist der einzige Browser, der (unseres Wissens nach) derzeit zuverlässig Audio "vom Desktop" senden kann. Zudem ist es ein Browser, dem es zumindest teilweise gelingt, die Videokompression in vorhandene Hardware, wie z.B. CPU-Einheiten oder Grafikkarte, auszulagern. Das verbessert die Bildqualität erheblich
 * Bitte **verzichtet auf GEMA-pflichtige Musik** in euren Beiträgen.
-* Mikrofon & Audio Setup verdienen Eure Aufmerksamkeit: **Kopfhörer  sind unbedingte Voraussetzung**, egal ob große Headsets oder kleine Ohrstecker
+* Mikrofon & Audio Setup verdienen Eure Aufmerksamkeit: **Kopfhörer sind unbedingte Voraussetzung**, egal ob große Headsets oder kleine Ohrstecker
     *  ein **Ansteck-Mikrofon** verbessert den Sound, **Headsets sind noch besser**! Das Mikrofon im Laptop wird vermutlich keinen guten Dienst leisten, da beim Videostreaming oft die Lüfter hochdrehen und dieser Lärm im Audiostream landet
 * **Licht ist wichtig**: Macht so viel Licht, dass ihr gerade noch Euren Laptop sehen könnt. Webcams sind, verglichen mit den in Telefonen üblichen Kameras, erstaunlich lichtschwach
 * **Fingerabdrücke auf der Kameralinse** vorher beseitigen. Dabei hilft ein Brillenputztuch
@@ -149,7 +149,7 @@ Speaker-Video |[Quelle](https://obs.ninja/?push=xJf8Mqs&room=test&hash=2e40&labe
 Speaker-Screenshare| [Quelle](https://obs.ninja/?push=v2QAmBj&room=test&hash=2e40&label=OIO_Test_Screenshare)| [Ziel/Monitor](https://obs.ninja/?view=v2QAmBj&scene&room=test&password=test123&label=OIO_Test_Screenshare)
 
 ## Test-Session / technische Stellprobe
-Wir werden eure Setups im Vorfeld mit euch testen.
+Wir werden eure Setups im Vorfeld mit euch testen. Dazu bekommt ihr noch eine Email oder habt sie schon längst bekommen.
 
 Dabei geht es vor allem um die optimalen Einstellungen von Bild- und Audioqualität. Euren Talk müsst ihr dafür also noch nicht fertig haben!
 
