@@ -14,7 +14,12 @@ ref: news
         <p>{{ item.content | markdownify }}</p>
 
         {% if item.external_url %}
-        <p><a href="{{ item.external_url }}" target="_blank" rel="noopener noreferrer">Weitere Informationen</a></p>
+        {% if item.external_url contains '://' %}
+          {% assign target = "_blank" %}
+        {% else %}
+          {% assign target = "" %}
+        {% endif %}
+        <p><a href="{{ item.external_url }}" target="{{ target }}" rel="noopener noreferrer">Weitere Informationen</a></p>
         {% endif %}
     </li>
     {% endfor %}
