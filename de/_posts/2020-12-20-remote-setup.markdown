@@ -175,3 +175,5 @@ Ein Kameracheck mittags um 12 Uhr mit Tageslicht ist nicht aussagekräftig, wenn
 Gestallte deinen Hintergrund möglichst neutral und vermeide persönliche Gegenstände wie deinen Geburtstagskalender, Passwörter oder eine freie Sichtlinie in das Fenster deiner Nachbarn.  Je langweiliger dein Hintergrund ist, desto besser.
 
 Die Vortragsweise ist dieses Jahr deutlich anders als in den letzten Jahren. Es gibt keine direkten Zuschauer und auch kein sofortiges Feedback aus dem Publikum. Gestalte deinen Vortrag persönlicher indem du Wackelaugen, dein Lieblingsstofftier oder eine Quietscheente auf/an/um/hinter die Kamera setzt. Dadurch schaust du den Zuschauern im Stream öfters ins Gesicht und hast gleichzeitig "reale" Zuschauer, was häufig das Vortragen erleichtert.
+
+<small>Vielen Dank an die [RheinRuhrStage](https://r3s.nrw), deren Dokumentation wir als Grundlage für diesen Beitrag genommen haben!</small>
