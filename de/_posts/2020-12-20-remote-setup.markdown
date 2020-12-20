@@ -60,7 +60,7 @@ Der Ablauf ist grundsätzlich so:
 * **Redshift** (oft in Verbindung mit "Nightmode") sieht in Präsentationen nicht gut aus
 * Bitte schließt während eures Talks alle Programme, die nicht notwendig sind. Dadurch vermeidet ihr, dass Popups von Messengern oder Benachrichtigungen aus anderen Browserfenstern während eurer Präsentation erscheinen.
 * Wenn möglich, nutzt zwei Monitore. Einen gebt ihr frei und zeigt eure Präsentation. Auf dem anderen Monitor können dann andere Fenster sein, z.B. das mit dem Rückkanal für Herald und Regie.
-* Wenn ihr ein **ausgefeiltes Kamera-Setup** oder gar selbst ein Studio betreiben solltet: Im OBS-Ninja könnt ihr auch die Virtual-Webcam als Quelle angeben. Oder einen HDMI-Grabber, an dem eine Videokamera hängt. Leuten mit einem OBS-Setup können wir auch eine RTMP-Zieladresse geben. Der Rückkanal bleibt aber auch in diesem Fall der Mumble-Audiochat.
+* Wenn ihr ein **ausgefeiltes Kamera-Setup** oder gar selbst ein Studio betreiben solltet: Im OBS-Ninja könnt ihr auch die Virtual-Webcam als Quelle angeben. Oder einen HDMI-Grabber, an dem eine Videokamera hängt.
 * **Aufgezeichnete Talks** (Pre-Recording) und nur "Q&A-Live" ist durchaus eine Option, wenn ihr Euch nicht sicher seid, dass die Internet-Bandbreite ausreicht und stabil genug ist. Entweder als "Live on Tape"-Aufzeichnung vorab von einem Ort mit besserer Anbindung oder ihr nehmt selbst, z.B. mit OBS auf. Entsprechene Folienlayouts für Splitscreen-Ansichten wird es in den nächsten 2-3 Tagen geben.
 
 # Details zu den eingesetzten Werkzeugen
