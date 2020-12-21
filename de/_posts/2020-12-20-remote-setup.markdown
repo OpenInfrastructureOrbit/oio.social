@@ -17,14 +17,14 @@ Die Auswahl der Werkzeuge basiert auf den Erfahrungen aus einigen durchgeführte
 ## Architektur
 
 1. Übertragung Kamerabild/Ton und Folien/andere Form der Präsentation zum OIO: OBS-Ninja
-2. Rückkanal und Notfall-Kommunkation bei Störungen: Jitsi
+2. Rückkanal und Notfall-Kommunkation bei Störungen: BigBlueButton
 
 ![](/images/rc3-remote-streaming/obs-ninja.png)
 
-![](/images/rc3-remote-streaming/jitsi.png)
+![](/images/rc3-remote-streaming/bbb.png)
 
-### Jitsi-Kanal
-Jitsi ist eine quelloffene Software für Onlinemeetings. Es benötigt keine weitere Softwareinstallation und wird am besten in Chromium/Chrome benutzt.
+### BigBlueButton-Kanal
+BigBlueButton (BBB) ist eine quelloffene Software für Onlinemeetings. Es benötigt keine weitere Softwareinstallation und wird am besten in Chromium/Chrome benutzt.
 
 ### OBS-Ninja Desktop/Videoshare
 Eurer Content zur Regie: OBS-Ninja ist ein Browser-Streaming, das keine Installation einer App benötigt sondern lediglich einen aktuellen Browser (Chromium/Chrome bevorzugt).
@@ -34,8 +34,8 @@ Vor dem offiziellen Start des rC3 möchten wir mit jedem von euch das Setup einm
 
 Der Ablauf ist grundsätzlich so:
 
-* ihr kommt 30 Minuten vor eurem Talk in einen definierten Jitsiraum, das Foyer. Die URL wird noch bekannt gegeben.
-* ein Regieengel holt euch dort ab und "bringt" Euch "in einen Saal". Das wird ein spezieller Jitsiraum nur für diesen Talk sein.
+* ihr kommt 30 Minuten vor eurem Talk in einen definierten Raum von BigBlueButton, unser Foyer. Die URL wird noch bekannt gegeben.
+* ein Regieengel holt euch dort ab und "bringt" Euch "in einen Saal". Das wird ein spezieller Raum in BBB nur für diesen Talk sein.
 * Vor eurem Talk bekommt ihr zwei URLs für Euren Browser
   * **URL für Camera-Share**: Diesem Browser gebt ihr Zugriff auf Webcam und Mikrofon. Das Browserfenster könnt ihr dann minimieren.
   * **URL für Slide/Desktop-Share**: Dort wählt ihr entweder das Fenster mit der Applikation aus, die ihr für Eure Präsentationsfolien nutzen wollt oder den Komplettbildschirm.
@@ -43,9 +43,9 @@ Der Ablauf ist grundsätzlich so:
   * solltet ihr keine URLs bekommen haben können wir sie spätestens in den 30 Minuten vor dem Talk einrichten.
 * Wenn die Technik richtig funktioniert
     * Wir warten gemeinsam auf den Beginn eures Talks laut Fahrplan.
-    * Ein Herald wird Euren Talk anmoderieren, evtl. wechselt ihr auch dabei im Dialog schon ein paar Worte. Herald und Regie werden per Jitsi zu hören und ggf. zu sehen sein.
-    * Ihr haltet einfach Euren Talk, die Bildmischung zwischen den Bildquellen (Folien/Speaker) macht die Regie
-    * Bei jeweils 10min und 5min Restzeit bekommt ihr eine entsprechende kurze Ansage von der Regie über Jitsi
+    * Ein Herald wird Euren Talk anmoderieren, evtl. wechselt ihr auch dabei im Dialog schon ein paar Worte. Herald und Regie werden per BBB zu hören und ggf. zu sehen sein.
+    * Ihr haltet einfach Euren Talk, die Bildmischung zwischen den Bildquellen (Folien/Speaker) macht die Regie.
+    * Bei jeweils 10min und 5min Restzeit bekommt ihr eine entsprechende kurze Ansage von der Regie über BBB.
     * Im Anschluss an Euren Talk übernimmt der Herald wieder und wird das Q&A mit dem Signalangel machen. Mangels Publikum vor Ort werden die Fragen aus verschiedenen Kanälen im Internet kommen.
     * Es besteht die Möglichkeit, detaillierte Gespräche in einem eignenen Raum nach dem Ende des Talks fortzuführen.
 
@@ -120,15 +120,15 @@ Ganz rechts ist ein rotes Telefon mit dem der Anruf/Stream beendet wird.
 
 ![](/images/rc3-remote-streaming/obs-ninja-buttons.png)
 
-## Jitsi
+## Big Blue Button
 
-Als Rückkanal zu euch verwenden wir einen Raum in Jitsi. Diesen öffnet ihr in einem anderen Tab eures Browsers. Über diesen Kanal werden ihr dann die Moderation des Heralds und gestellte Fragen hören oder Anweisungen aus der Regie.
+Als Rückkanal zu euch verwenden wir einen Raum in BBB. Diesen öffnet ihr in einem anderen Tab eures Browsers. Über diesen Kanal werden ihr dann die Moderation des Heralds und gestellte Fragen hören oder Anweisungen aus der Regie.
 
-Wir senden euch einen Link zu, über den ihr direkt den Raum betretet. Auch hier müsst ihr im ersten Schritt eure Freigabe für das Mikrofon und optional die Kamera erteilen.
+Wir senden euch einen Link zu, über den ihr den Raum betreten könnt. Auch hier müsst ihr im ersten Schritt eure Freigabe für das Mikrofon und optional die Kamera erteilen.
 
-Die wichtigsten Bedienelemente beinden sich hier in der Mitte. Links der Mitte kann man das Mikrofon an- oder ausschalten, rechts die Kamera und mit dem roten Knopf in der Mitte verlässt man den Raum wieder.
+Die wichtigsten Bedienelemente beinden sich hier in der Mitte. Mit dem Mikrofonbutton kann man sich stummschalten. Der Telefonhörer beendet die Audioübertragung. Daneben kann man das eigene Kamerabild oder den Bildschirm freigeben.
 
-![](/images/rc3-remote-streaming/jitsi-bedienung.png)
+![](/images/rc3-remote-streaming/bbb-bedienung.png)
 
 # Selbst testen
 Hier könnt ihr selbst Eure Bildqualität beurteilen, auch in Abhängigkeit von der gewählten Maximalauflösung und Eurer nutzbaren Internetbandbreite.

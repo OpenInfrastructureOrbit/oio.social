@@ -17,14 +17,14 @@ The selection of tools is based on the experience of several online events held 
 ## Architecture
 
 1. transmission of camera image/sound and slides/other form of presentation to the OIO: OBS-Ninja
-2. back channel and emergency communication in case of malfunction: Jitsi
+2. back channel and emergency communication in case of malfunction: BigBlueButton
 
 ![](/images/rc3-remote-streaming/obs-ninja.png)
 
-![](/images/rc3-remote-streaming/jitsi.png)
+![](/images/rc3-remote-streaming/bbb.png)
 
-### Jitsi channel
-Jitsi is an open source software for online meetings. It requires no additional software installation and is best used in Chromium/Chrome.
+### BigBlueButton channel
+BigBlueButton (BBB) is an open source software for online meetings. It requires no additional software installation and is best used in Chromium/Chrome.
 
 ### OBS-Ninja Desktop/Videoshare
 Your content to director: OBS-Ninja is a browser streaming that does not require any app installation but only a current browser (Chromium/Chrome preferred).
@@ -34,8 +34,8 @@ Before the official launch of rC3, we would like to test the setup once with eac
 
 The procedure is basically like this:
 
-* you come 30 minutes before your talk to a defined jitsi room, the foyer. The URL will be announced.
-* a director angel will pick you up there and "take" you "to a hall". This will be a special jitsi room just for this talk.
+* you come 30 minutes before your talk to a defined BBB room, the foyer. The URL will be announced.
+* a director angel will pick you up there and "take" you "to a hall". This will be a special BBB room just for this talk.
 * Before your talk you will get two URLs for your browser.
   * **URL for Camera-Share**: You give this browser access to the webcam and microphone. You can then minimize the browser window.
   * URL for Slide/Desktop-Share**: Here you select either the window with the application you want to use for your presentation slides or the complete screen.
@@ -43,9 +43,9 @@ The procedure is basically like this:
   * If you have not received any URLs, we can set them up at the latest in the 30 minutes before the talk.
 * If the technology works properly
     * We will wait together for the start of your talk according to the timetable.
-    * A herald will introduce your talk, perhaps you will exchange a few words in the dialogue. Herald and director will be heard and possibly seen via Jitsi.
+    * A herald will introduce your talk, perhaps you will exchange a few words in the dialogue. Herald and director will be heard and possibly seen via BBB.
     * You simply give your talk, the director does the image mixing between the image sources (slides/speakers).
-    * At every 10 min and 5 min remaining time you will get a short announcement from the director via Jitsi.
+    * At every 10 min and 5 min remaining time you will get a short announcement from the director via BBB.
     * After your talk, the Herald will take over again and do the Q&A with the signal angel. Due to lack of audience on site, the questions will come from various channels on the internet.
     * There will be an opportunity to continue detailed discussions in a separate room after the talk has finished.
 
@@ -120,15 +120,15 @@ On the far right is a red telephone with which the call/stream is ended.
 
 ![](/images/rc3-remote-streaming/obs-ninja-buttons.png)
 
-## Jitsi
+## BigBlueButton
 
-As a return channel to you, we use a room in Jitsi. Open it in another tab of your browser. Through this channel you will hear the moderation of the Herald and questions asked or instructions from the director.
+As a return channel to you, we use a room in BBB. Open it in another tab of your browser. Through this channel you will hear the moderation of the Herald and questions asked or instructions from the director.
 
-We will send you a link to enter the room directly. Here, too, the first step is to give your permission for the microphone and, optionally, the camera.
+We will send you a link to enter the room. Here, too, the first step is to give your permission for the microphone and, optionally, the camera.
 
-The most important controls are in the middle. On the left of the centre you can switch the microphone on or off, on the right the camera and with the red button in the centre you can leave the room again.
+The most important controls are in the middle. You can mute yourself by switching the microphone button. With the handset button you can stop audio transmission. The other buttons are for enabling camera or screen sharing.
 
-![](/images/rc3-remote-streaming/jitsi-bedienung.png)
+![](/images/rc3-remote-streaming/bbb-bedienung.png)
 
 # Test yourself
 Here you can judge your image quality yourself, also depending on the selected maximum resolution and your usable Internet bandwidth.
