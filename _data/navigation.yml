@@ -7,8 +7,8 @@ languages:
       url: /blog/
     - title: "Spenden"
       url: "http://spenden.oio.social"
-    - title: "CfP"
-      url: https://talks.rc3.oio.social/r3c-oio/cfp 
+    - title: "Fahrplan"
+      url: https://talks.rc3.oio.social/r3c-oio/schedule/
     - title: "Über"
       url: /about/
   - language: "en"
@@ -19,7 +19,7 @@ languages:
       url: /en/blog/
     - title: "Donations"
       url: "http://spenden.oio.social"
-    - title: "CfP"
-      url: https://talks.rc3.oio.social/r3c-oio/cfp
+    - title: "Schedule"
+      url: https://talks.rc3.oio.social/r3c-oio/schedule/
     - title: "About"
       url: /en/about/
