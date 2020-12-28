@@ -5,8 +5,8 @@ languages:
       url: /news/
     - title: "Blog"
       url: /blog/
-    - title: "Spenden"
-      url: "http://spenden.oio.social"
+    - title: "Stream"
+      url: "https://streaming.media.ccc.de/rc3/oio"
     - title: "Fahrplan"
       url: https://talks.rc3.oio.social/r3c-oio/schedule/
     - title: "Über"
@@ -17,8 +17,8 @@ languages:
       url: /en/news/
     - title: "Blog"
       url: /en/blog/
-    - title: "Donations"
-      url: "http://spenden.oio.social"
+    - title: "Stream"
+      url: "https://streaming.media.ccc.de/rc3/oio"
     - title: "Schedule"
       url: https://talks.rc3.oio.social/r3c-oio/schedule/
     - title: "About"

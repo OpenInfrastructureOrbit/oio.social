@@ -18,12 +18,13 @@ The Open Infrastructure Orbit *(also: the Marina)* is a safe haven for all group
 OIO at [rC3 – remote Chaos Experience](https://events.ccc.de/2020/09/04/rc3-remote-chaos-experience/)
 ---------
 
-### What are the next steps?
+### How do you find us?
 
-* Collect ideas on how to participate as assembly.
-* See our [Call for Participation/People/Ideas]({% post_url /en/2020-10-30-cfp-oio-about-freedomrc3 %}).
-* Join our meetings, details follow.
-
+* via [stream](https://streaming.media.ccc.de/rc3/oio)
+* in the [rC3 World](https://rc3.world/rc3/assembly/af-oio/)
+* after the talks to the [discussion](http://discussion.rc3.oio.social)
+* to our [workshops](http://workshop.rc3.oio.social)
+* show up to our speakers in the [hall](http://audience.rc3.oio.social)
 
 These communites are part of our orbit:
 --------
